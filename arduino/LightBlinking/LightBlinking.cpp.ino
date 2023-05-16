@@ -1,4 +1,8 @@
 // LED_BUILTIN is built in LED connected to digital pin 13.
+// 2 pins
+// 1st pin : GND
+// 2nd pin : digital pin 13
+
 void setup()
 {
   pinMode(LED_BUILTIN, OUTPUT);
